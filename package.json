@@ -1,0 +1,20 @@
+{
+  "name": "sanxiaxiang",
+  "version": "1.0.0",
+  "description": "三峡香项目",
+  "main": "app.js",
+  "scripts": {
+    "dev": "miniprogram-ci build --watch --project ./ --output ./dist --compileType miniprogram",
+    "build": "miniprogram-ci build --project ./ --output ./dist --compileType miniprogram"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "miniprogram-ci": "^2.1.14",
+    "typescript": "^5.2.2",
+    "@types/node": "^20.9.0"
+  },
+  "dependencies": {
+    "wx-request": "^1.0.1"
+  }
+}

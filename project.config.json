@@ -1,0 +1,16 @@
+{
+  "setting": {
+    "es6": true,
+    "postcss": true,
+    "minified": true,
+    "appid": "wx1c9e309a9558c18c",
+    "compileType": "miniprogram",
+    "rendererOptions": {
+      "skyline": {
+        "defaultDisplayBlock": true,
+        "sdkVersionBegin": "3.0.0",
+        "sdkVersionEnd": "latest"
+      }
+    }
+  }
+}
